@@ -1,0 +1,4 @@
+authors:
+Martynas Lukosevicius
+Alejo Perez Gomez
+lab was done mostly together over zoom, some parts seperatly (one wrote the code other answered questions.) for filesharing github was used.
